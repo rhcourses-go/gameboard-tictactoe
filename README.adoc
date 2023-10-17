@@ -1,0 +1,4 @@
+= Funktionen zum Zeichnen und Verwalten von einfachen Spielfeldern
+
+Dieses Repo enthält Funktionen für den Umgang mit einfachen Spielfeldern,
+wie sie z.B. in Tic-Tac-Toe oder Vier Gewinnt verwendet werden können.
